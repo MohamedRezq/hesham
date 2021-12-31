@@ -114,3 +114,12 @@
     flex-direction: column;
   }
 }
+
+.scrollSnap {
+  scroll-snap-type: x mandatory;
+}
+
+li.react-tabs__tab{
+  border: solid 1px blue;
+  border-radius: 5px;
+}
